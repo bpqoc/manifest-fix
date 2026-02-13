@@ -7,7 +7,7 @@ import glob
 # the fields that should always be the same
 DEFAULT_DATA = {
     "author": "QOC Innovations",
-    "website": "qocinnovations.com",
+    "website": "https://www.qocinnovations.com",
     "license": "OPL-1",
 }
 
